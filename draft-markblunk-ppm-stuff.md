@@ -12,9 +12,9 @@ v: 3
 area: "Security"
 workgroup: "Privacy Preserving Measurement"
 keyword:
- - next generation
- - unicorn
- - AI-native
+ - math
+ - great
+ - stuff
 venue:
   group: "Privacy Preserving Measurement"
   type: "Working Group"
