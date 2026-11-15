@@ -19,18 +19,18 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "tremendous outcomes"
+abbrev: "neat stuff"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
+docname: draft-markblunk-ppm-stuff-latest
+submissiontype: IETF
 number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: SEC
+workgroup: PPM
 keyword:
  - next generation
  - unicorn
@@ -40,13 +40,13 @@ venue:
   type: Working Group
   mail: WG@example.com
   arch: https://example.com/WG
-  github: USER/REPO
+  github: markblunk/more-stuff
   latest: https://example.com/LATEST
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
+    fullname: Mark Blunk
+    organization: wizbang industries
     email: your.email@example.com
 
 normative:
