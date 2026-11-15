@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: SEC
-workgroup: PPM
+area: "Security"
+workgroup: "Privacy Preserving Measurement"
 keyword:
  - next generation
  - unicorn
  - AI-native
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: markblunk/more-stuff
-  latest: https://example.com/LATEST
+  group: "Privacy Preserving Measurement"
+  type: "Working Group"
+  mail: "ppm@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/ppm/"
+  github: "markblunk/more-stuff"
+  latest: "https://markblunk.github.io/more-stuff/draft-markblunk-ppm-stuff.html"
 
 author:
  -
